@@ -71,7 +71,7 @@ set CLASSPATH=%APP_HOME%\lib\letittest.jar
 
 
 @rem Execute letittest
-"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %LETITTEST_OPTS%  -classpath "%CLASSPATH%" New9 %*
+"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %LETITTEST_OPTS%  -classpath "%CLASSPATH%" RenamedClassWhyNot %*
 
 :end
 @rem End local scope for the variables with windows NT shell

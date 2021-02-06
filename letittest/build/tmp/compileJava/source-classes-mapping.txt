@@ -1,2 +1,2 @@
-New9.java
- New9
+RenamedClassWhyNot.java
+ RenamedClassWhyNot
