@@ -1,2 +1,2 @@
-RenamedClassWhyNot.java
- RenamedClassWhyNot
+ru/qatest/stg/letittest/RenamedClassWhyNot.java
+ ru.qatest.stg.letittest.RenamedClassWhyNot
