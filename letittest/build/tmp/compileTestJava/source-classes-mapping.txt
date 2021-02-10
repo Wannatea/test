@@ -1,0 +1,8 @@
+ru/qatest/stg/letittest/KvadratTest.java
+ ru.qatest.stg.letittest.KvadratTest
+ru/qatest/stg/letittest/PointTest.java
+ ru.qatest.stg.letittest.PointTest
+ru/qatest/stg/letittest/PointTwoTest.java
+ ru.qatest.stg.letittest.PointTwoTest
+ru/qatest/stg/letittest/PointThreeTest.java
+ ru.qatest.stg.letittest.PointThreeTest

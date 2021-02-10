@@ -1,2 +1,12 @@
+ru/qatest/stg/letittest/Kvadrat.java
+ ru.qatest.stg.letittest.Kvadrat
+ru/qatest/stg/letittest/Pryamoug.java
+ ru.qatest.stg.letittest.Pryamoug
 ru/qatest/stg/letittest/RenamedClassWhyNot.java
  ru.qatest.stg.letittest.RenamedClassWhyNot
+ru/qatest/stg/letittest/PointTwo.java
+ ru.qatest.stg.letittest.PointTwo
+ru/qatest/stg/letittest/Point.java
+ ru.qatest.stg.letittest.Point
+ru/qatest/stg/letittest/PointThree.java
+ ru.qatest.stg.letittest.PointThree
