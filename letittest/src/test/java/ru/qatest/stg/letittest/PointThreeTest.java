@@ -8,9 +8,9 @@ public class PointThreeTest {
 	@Test
 	public void testDistanceThree(){
 		PointThree p1 = new PointThree(2,2);
-		PointThree p2 = new PointThree (4,4);
-		Assert.assertEquals(p1.distanceThree(p2), 2.8284271247461903);
-	
+		PointThree p2 = new PointThree (4,2);
+		Assert.assertEquals(p1.distanceThree(p2), 2);
+
 	}
 
 }
